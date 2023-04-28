@@ -46,3 +46,5 @@ while True:
 # Liberar la cámara y limpiar los pines del semáforo
 cap.release()
 GPIO.cleanup()
+
+print('esta rico verdad')
